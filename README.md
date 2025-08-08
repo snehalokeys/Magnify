@@ -1,4 +1,5 @@
 Magnify
+
 Magnify is a minimal, distraction-free web tool that lets you type text into a small box and instantly magnifies it fullscreen as you type. It's perfect for live presentations, emphasis in workshops, or accessibility-friendly communication.
 
 ✨ Features
