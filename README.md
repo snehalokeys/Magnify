@@ -48,5 +48,8 @@ Vanilla JavaScript
 
 Google Fonts (Inter)
 
+Demo video
+https://github.com/user-attachments/assets/acb758ae-0056-429f-bf7f-710864a6cd9d
+
 📄 License
 MIT License — use freely, credit appreciated.
